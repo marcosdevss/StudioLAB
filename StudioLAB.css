@@ -173,3 +173,37 @@ nav ul a:hover {
   display: flex;
   margin-left: 25%;
 }
+
+
+.premios {
+  width: 80%;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.premio {
+  width: 30%;
+  margin: 10px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  text-align: center;
+}
+
+.premio img {
+  width: 80%;
+  max-width: 100px;
+}
+
+.premio h3 {
+  margin: 10px 0;
+}
+
+#estatueta {
+  width: 60%;
+  margin-left: 20px;
+  border-radius: 55px;
+  border-color: beige;
+  border-width: 50px;
+}
